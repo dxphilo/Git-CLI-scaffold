@@ -1,0 +1,33 @@
+{
+  "name": "scafold",
+  "version": "1.0.0",
+  "description": "CLI that scaffolds new project and clones repos",
+  "main": "bin/index.js",
+  "bin": {
+    "scafold": "./bin/index.js",
+    "clone": "./bin/repo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "Project",
+    "Scafold"
+  ],
+  "author": "John Philip",
+  "files": [
+    "bin/",
+    "src/",
+    "template/"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "arg": "^5.0.1",
+    "chalk": "^4.1.2",
+    "esm": "^3.2.25",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "ncp": "^2.0.0"
+  }
+}
