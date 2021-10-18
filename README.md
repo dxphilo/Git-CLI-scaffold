@@ -7,14 +7,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/T2D967zkxYIANgJuFM/source.gif?raw=true" alt="scafold new project demo"/>
+  <img src="https://media.giphy.com/media/T2D967zkxYIANgJuFM/source.gif?raw=true" alt="scafold new project demo"  width="400" height="790" />
 </p>
-
-
-![Git Scafold](https://media.giphy.com/media/T2D967zkxYIANgJuFM/source.gif)
-
-
-
 
 
 > #### Prerequisite
