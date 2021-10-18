@@ -46,7 +46,7 @@ After installing the CLI globally on your system, you need to call the following
 ```bash
 
 # creates a fresh copy of the project scafold on your currrent working directory
-$ scafold new
+$ scafold new --git
 
 ```
 
