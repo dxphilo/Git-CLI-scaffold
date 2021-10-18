@@ -49,6 +49,8 @@ After installing the CLI globally on your system, you need to call the following
 
 #### Scaffold new project
 
+To scaffold a new project, you need to run the command 👇
+
 ```bash
 
 # creates a fresh copy of the project scafold on your currrent working directory
@@ -58,7 +60,7 @@ $ scafold new --git
 
 #### Clone a repo
 
-You can also clone a repo from the CLI.
+You can also clone a repo from the CLI 👇
 
 ```bash
 
