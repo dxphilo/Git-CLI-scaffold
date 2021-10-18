@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/T2D967zkxYIANgJuFM/source.gif?raw=true" alt="scafold new project demo"/>
+  <img src="https://media.giphy.com/media/BzK5c0Foz4UVrGmArw/source.gif?raw=true" alt="scafold new project demo"/>
 </p>
 
 
