@@ -15,7 +15,7 @@ Packages.
 - [X] inquirer - A collection of common interactive command line user interfaces.
 - [X] ncp - Asynchronous recursive file & directory copying.
 - [X] chalk - Add colours to terminal messages and logs.
-- [X] figlet -  Creatting ASCII Art from text.
+- [X] figlet -  Creating ASCII Art from text.
 
 #### Installation 
 
