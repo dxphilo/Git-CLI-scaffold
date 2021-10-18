@@ -11,13 +11,13 @@
 </p>
 
 
-> #### Prerequisite
+> ## Prerequisite
 >
 > - Have NodeJs installed.
 
 
 
-#### Built with
+## Built with
 
 
 Packages.
@@ -29,7 +29,7 @@ Packages.
 - [X] chalk - Add colours to terminal messages and logs.
 - [X] figlet -  Creating ASCII Art from text.
 
-#### Installation 
+## Installation 
 
 Clone the repo and run the following commands.
 
@@ -43,11 +43,11 @@ $ npm i -g
 
 ```
 
-#### Usage
+## Usage
 
 After installing the CLI globally on your system, you need to call the following commands on your terminal.
 
-## Scaffold new project
+#### Scaffold new project
 
 ```bash
 
@@ -56,7 +56,7 @@ $ scafold new --git
 
 ```
 
-## Clone a repo
+#### Clone a repo
 
 You can also clone a repo from the CLI.
 
