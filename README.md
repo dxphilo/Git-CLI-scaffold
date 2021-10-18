@@ -5,6 +5,13 @@
 
 ---
 
+
+![Git Scafold](https://media.giphy.com/media/T2D967zkxYIANgJuFM/source.gif)
+
+
+
+
+
 > #### Prerequisite
 >
 > - Have NodeJs installed.
