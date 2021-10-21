@@ -3,10 +3,9 @@ import chalk from 'chalk';
 import { stderr } from 'process';
 const {exec}=require('child_process');
 
-
 // 
 export async function Clone(arg) {
-    console.log(arg[2])
+    // console.log(arg[2])
     if (arg[2]) {
         exec(`git clone ${arg[2]}`,(error,stdout,stderr)=>{
             if (error) {
